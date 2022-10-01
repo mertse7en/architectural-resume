@@ -8,7 +8,7 @@ Projects
 
 - [Click Stream on AWS](#ClickStreamOnAWS)
 - [Cloud Front Logs OnAWS](#CloudFrontLogsOnAWS)
-- [Inconsistent firebase](#Inconsisten-firebase-incoming)
+- [Inconsistent firebase](#InconsistenFirebaseIncoming)
 - Traning 
 ## ClickStreamOnAWS
 sd
