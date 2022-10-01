@@ -8,7 +8,7 @@ Projects
 
 - [Click Stream on AWS](#ClickStreamOnAWS)
 - [Cloud Front Logs OnAWS](#CloudFrontLogsOnAWS)
-- {Inconsistent firebase incoming problem](#ScheduledQueriesOnGCP)
+- [Inconsistent firebase incoming problem](#ScheduledQueriesOnGCP)
 - Traning 
 ## ClickStreamOnAWS
 sd
