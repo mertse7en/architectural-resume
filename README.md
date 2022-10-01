@@ -7,12 +7,17 @@ This repo contains architectures of my project history.
 Projects
 
 - [Click Stream on AWS](#ClickStreamOnAWS)
-- [CloudFrontLogsOnAWS](#CloudFrontLogsOnAWS)
+- [Cloud Front Logs OnAWS](#CloudFrontLogsOnAWS)
+- {Inconsistent firebase incoming problem](#ScheduledQueriesOnGCP)
+- Traning 
 ## ClickStreamOnAWS
 sd
 
 ## CloudFrontLogsOnAWS
 asd
+
+## ScheduledQueriesOnGCP
+asdasd
 
 - - -
 
