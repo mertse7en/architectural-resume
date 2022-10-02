@@ -6,18 +6,11 @@ This repo contains architectures of my project history.
 
 Projects
 
-- [Click Stream on AWS](#ClickStreamOnAWS)
+- [Click Stream on AWS](projects/1-ClickStreamonAWS/README.md)
 - [Cloud Front Logs OnAWS](#CloudFrontLogsOnAWS)
 - [Inconsistent firebase](#InconsistenFirebaseIncoming)
 - Traning 
-## ClickStreamOnAWS
-![Cloud Data Engineering-1](img/1-ClickStreamonAWS.png)
 
-## CloudFrontLogsOnAWS
-asd
-
-## Inconsisten-firebase-incoming
-asdasd
 
 - - -
 
