@@ -11,7 +11,7 @@ Projects
 - [Inconsistent firebase](#InconsistenFirebaseIncoming)
 - Traning 
 ## ClickStreamOnAWS
-![Cloud Data Engineering-1](image.png)
+![Cloud Data Engineering-1](img/1-ClickStreamonAWS.png)
 
 ## CloudFrontLogsOnAWS
 asd
