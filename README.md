@@ -8,7 +8,7 @@ This repo contains architectures of my project history.
 Projects
 
 - [Click Stream on AWS](projects/1-ClickStreamonAWS/README.md)
-- [Cloud Front Logs OnAWS](#CloudFrontLogsOnAWS)
+- [Cloud Front Logs OnAWS](projects/2-%20CloudFrontLogs/READMe.md)
 - [DatamartsOnBigquery](projects/3-%20DatamartsOnBigQuery/README.md)
 - Traning 
 
