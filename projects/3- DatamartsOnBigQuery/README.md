@@ -31,3 +31,5 @@ Airflow is one of the best data orchestration and scheduliding tool in data worl
 <br>
 
 ## 🐵 Faced Issues
+
+- I can not say this is issue but there is one cruical thing about Airflow is that Using Airflow in cloud is really expensive. I have never had a chance to use astronomer but I have tried GCP Airflow(Google Cloud Composer) and AWS Airflow(AWS MWAA). Both of them was very expensive at that times thus I decided to create Airflow on 1 single instance with LocalExecutor on one of our local Ubuntu 20.04 machines. It's been working good so far. My suggestion is that go with airflow on-prem installation unless you have heavy workloads or high number of dags/tasks. 
