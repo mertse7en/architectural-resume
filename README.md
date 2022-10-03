@@ -7,10 +7,10 @@ Hi everyone, welcome to the my architectural diary. I enjoy creating Data Archit
 
 Here are some projects that I enjoyed:
 
-- [Click Stream on AWS](projects/1-ClickStreamonAWS/README.md)
-- [Cloud Front Logs OnAWS](projects/2-%20CloudFrontLogs/READMe.md)
-- [DatamartsOnBigquery](projects/3-%20DatamartsOnBigQuery/README.md)
-- Traning 
+1. [Click Stream on AWS](projects/1-ClickStreamonAWS/README.md)
+2. [DatamartsOnBigquery](projects/3-%20DatamartsOnBigQuery/README.md)
+3. [Cloud Front Logs OnAWS](projects/2-%20CloudFrontLogs/READMe.md)
+4. [3rdPartyExporter"](projects/TODO:) 
 
 
 - - -
