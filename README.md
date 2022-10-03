@@ -5,7 +5,7 @@ Hi, I'm Mert :wave:
 
 Hi everyone, welcome to the my architectural diary. I enjoy creating Data Architectures(mainly on AWS :blush: ) and solving data needs by **visiualizing** them I think Visualization enhances attention as it keeps the audience focused on the subject matter
 
-Here are some projects that I enjoyed:
+Here are some architectures that I built:
 
 1. [Click Stream on AWS](projects/1-ClickStreamonAWS/README.md)
 2. [DatamartsOnBigquery](projects/3-%20DatamartsOnBigQuery/README.md)
