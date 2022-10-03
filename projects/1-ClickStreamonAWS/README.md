@@ -14,6 +14,8 @@ The main aim of this project is to create event tracking data architecture for a
 
 
 
+
+
 ### 1- Landing Layer
 The first layer of architecture is the landing/ingesting layer. Each event collector pushes data through to Kinesis Data Streams, each data stream has data retention of 7 days.The size of data pushed to our streaming apps is approx 30-50 GB daily.
 

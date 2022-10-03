@@ -14,11 +14,20 @@ I solved this problem using Airflow. Because airflow BigQuerySensorOperator and 
 ## Architecture
 
 <br>
-
-TODO:
 <p align="center" width="100%">
-    <img width="80%" src="img/.png">
+    <img width="80%" src="img/BQ-inconsistent.png">
 </p>
 
+## Airflow
+Airflow is one of the best data orchestration and scheduliding tool in data world. And the community of airflow has been growing fast for the last few years espacially after **Astronomer**. I did not even need to write any of my own operator or hook. I used built-in `BigqueryCheckOperator`, `PythonOperator` and `BashOperator`. If you have some consecutive jobs needs to wait each other you should definetely use Airflow.
+
+`BigqueryCheckOperator` checks row table within every 30 mins to check whether raw-table are filled or not.Here is the airflow architecture:
+
+<br>
+<p align="center" width="100%">
+    <img width="80%" src="img/airflow-arch.png">
+</p>
+
+<br>
 
 ## 🐵 Faced Issues
