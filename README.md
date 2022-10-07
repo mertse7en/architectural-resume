@@ -12,7 +12,7 @@ Here are some architectures that I built:
 3. [Cloud Front Logs OnAWS](projects/2-%20CloudFrontLogs/READMe.md)
 4. [RealTimeLogAnalytics(Training)](projects/4-%20RealTimeLogVis-Training-/README.md) 
 5. [GameAnalyticsFromKafka](projects/5-GameAnalyticsDataFromKafka/README.md) 
-6. [RealTimeLogAnalytics(Training)](projects/6-RealTimeAnalyticsFrom3rdParty/README.md)
+6. [RealTimeAnalyticsFrom3rdPartyTools](projects/6-RealTimeAnalyticsFrom3rdParty/README.md)
 
 
 
