@@ -10,7 +10,10 @@ Here are some architectures that I built:
 1. [Click Stream on AWS](projects/1-ClickStreamonAWS/README.md)
 2. [DatamartsOnBigquery](projects/3-%20DatamartsOnBigQuery/README.md)
 3. [Cloud Front Logs OnAWS](projects/2-%20CloudFrontLogs/READMe.md)
-4. [3rdPartyExporter"](projects/TODO:) 
+4. [RealTimeLogAnalytics(Training)](projects/4-%20RealTimeLogVis-Training-/README.md) 
+5. [GameAnalyticsFromKafka](projects/5-GameAnalyticsDataFromKafka/README.md) 
+6. [RealTimeLogAnalytics(Training)](projects/6-RealTimeAnalyticsFrom3rdParty/README.md)
+
 
 
 - - -
