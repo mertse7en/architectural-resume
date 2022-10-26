@@ -13,7 +13,7 @@ Here are some architectures that I built:
 4. [RealTimeLogAnalytics(Training)](projects/4-%20RealTimeLogVis-Training-/README.md) 
 5. [GameAnalyticsFromKafka](projects/5-GameAnalyticsDataFromKafka/README.md) 
 6. [RealTimeAnalyticsFrom3rdPartyTools](projects/6-RealTimeAnalyticsFrom3rdParty/README.md)
-6. [ML-Ops Predict question similarity](projects/7-PredictQuestionSimilartiyMLOPS-/README.md)
+7. [ML-Ops Predict question similarity](projects/7-PredictQuestionSimilartiyMLOPS-/README.md)
 
 
 
