@@ -9,10 +9,10 @@ Here are some architectures that I built:
 
 1. [Click Stream on AWS](projects/1-ClickStreamonAWS/README.md)
 2. [DatamartsOnBigquery](projects/3-%20DatamartsOnBigQuery/README.md)
-3. [Cloud Front Logs OnAWS](projects/2-%20CloudFrontLogArchitecture/READMe.md)
-4. [RealTimeLogAnalytics(Training)](projects/4-%20RealTimeLogVis-Training-/README.md) 
-5. [GameAnalyticsFromKafka](projects/5-GameAnalyticsDataFromKafka/README.md) 
-6. [RealTimeAnalyticsFrom3rdPartyTools](projects/6-RealTimeAnalyticsFrom3rdParty/README.md)
+3. [TODO: Cloud Front Logs OnAWS](projects/2-%20CloudFrontLogArchitecture/READMe.md)
+4. [TODO: RealTimeLogAnalytics(Training)](projects/4-%20RealTimeLogVis-Training-/README.md) 
+5. [TODO: GameAnalyticsFromKafka](projects/5-GameAnalyticsDataFromKafka/README.md) 
+6. [TODO: RealTimeAnalyticsFrom3rdPartyTools](projects/6-RealTimeAnalyticsFrom3rdParty/README.md)
 7. [ML-Ops Predict question similarity](projects/7-PredictQuestionSimilartiyMLOPS-/README.md)
 
 
