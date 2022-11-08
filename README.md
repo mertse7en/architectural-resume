@@ -14,6 +14,7 @@ Here are some architectures that I built:
 5. [TODO: GameAnalyticsFromKafka](projects/5-GameAnalyticsDataFromKafka/README.md) 
 6. [TODO: RealTimeAnalyticsFrom3rdPartyTools](projects/6-RealTimeAnalyticsFrom3rdParty/README.md)
 7. [ML-Ops Predict question similarity](projects/7-PredictQuestionSimilartiyMLOPS-/README.md)
+8. [BigLogAnalysis_EMR-SPARK-AIRFLOW](projects/8-LogAnalysisEMR-SPARK-AIRFLOW/README.md)
 
 
 
