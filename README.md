@@ -25,6 +25,6 @@ Here are some architectures that I built:
 </a>
 
 <a href="https://www.instagram.com/mertseven7/">
-    <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
+    <img height="32" align="left" alt="Instagram" src="img/ico<ns/instagram.png" />
 </a>
 
