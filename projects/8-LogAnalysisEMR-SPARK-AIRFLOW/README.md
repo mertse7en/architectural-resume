@@ -4,7 +4,7 @@
 The main problem is to analyze CDN Logs provided by AKAMAI. 
 
 ## Challanges
-CDN data is being produced in realtime. Thus there are at least 10 GB data and at least 4 million small files. 
+CDN data is being produced in realtime. Thus there are at least 10 GB data and at least 4 million small files daily. 
 
 ## Architecture
 
